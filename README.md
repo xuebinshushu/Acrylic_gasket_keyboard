@@ -12,6 +12,7 @@ Stacked acrylic sheets to make a keyboard shell with a gasket structure includin
 - 定位板与外圈有1mm的旷量，装配时适当调整可以避免定位板与壳子之间硬接触，达到真正的gasket目的。
 - 定位板推荐做1.5mm铝定位。配合gmk原厂键帽声音好听直接能出雨滴音。
 - 增加了大门牙上盖。
+- 兼容GH60尺寸的60配列PCB。只做了非左移大兼容定位板，如果需要，请自己根据定位板外框尺寸进行更改。
 
 
 
