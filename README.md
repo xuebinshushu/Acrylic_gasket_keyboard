@@ -15,6 +15,10 @@ Stacked acrylic sheets to make a keyboard shell with a gasket structure includin
 - 兼容GH60尺寸的60配列PCB。只做了非左移大兼容定位板，如果需要，请自己根据定位板外框尺寸进行更改。
 - 淘宝购买4mm泡发胶条，别买错了，我第一次就买成了左边这种，比较硬，大家自行购买右边的这种白色软的泡发硅胶条。店铺不贴了，只告诉大家别花冤枉钱，这个东西不贵。
 
+20200916 补充
+
+- 调整胶条开槽位置
+
 
 
 ![image-20200911112124930](README.assets/image-20200911112124930.png)
