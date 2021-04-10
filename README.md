@@ -4,6 +4,17 @@ Stacked acrylic sheets to make a keyboard shell with a gasket structure includin
 
 本项目基于blacase 315 绘制，并使用MIT开源许可。
 
+
+
+
+20210411 修改：
+
+- 建议使用poron垫片作为定位板的承载条，去掉了亚克力的教条开槽。
+- 对脚撑进行修改，改为纵向脚撑，更加美观。
+- 将更改后的螺丝规格放在了图纸里。
+
+
+
 本项目特色：
 
 - 将原三明治结构改成gakset结构
@@ -17,9 +28,7 @@ Stacked acrylic sheets to make a keyboard shell with a gasket structure includin
 
 20200916 补充
 
-- 调整胶条开槽位置
-
-20201216 
+- 调整胶条开槽位置 
 
 - 接受大家建议，修改螺丝孔为3.2，放弃使用3.5mm螺丝柱，相对普遍一些，下面有附上螺丝柱尺寸
 
@@ -44,3 +53,5 @@ Stacked acrylic sheets to make a keyboard shell with a gasket structure includin
 ![img](README.assets/FuKVW3uk_JVUdc0y3MYx6-ni5CDr)
 
 ![image-20200914112130384](README.assets/image-20200914112130384.png)
+
+
