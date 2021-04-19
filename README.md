@@ -4,16 +4,28 @@ Stacked acrylic sheets to make a keyboard shell with a gasket structure includin
 
 本项目基于blacase 315 绘制，并使用MIT开源许可。
 
+20210419 修改：
+
+- 收紧边框尺寸
 
 
-
-20210411 修改：
+20210411 修改（图片来自群友）：
 
 - 建议使用poron垫片作为定位板的承载条，去掉了亚克力的教条开槽。
+
 - 对脚撑进行修改，改为纵向脚撑，更加美观。
+
 - 将更改后的螺丝规格放在了图纸里。
 
+    
 
+![e125c548ee16f35d43c0a1c33249a39](README.assets/e125c548ee16f35d43c0a1c33249a39.jpg)
+
+![8cbf68dd624d46380814af0ba1b224a](README.assets/8cbf68dd624d46380814af0ba1b224a.jpg)
+
+![a3d3eb3e239f1723019509ed98efafd](README.assets/a3d3eb3e239f1723019509ed98efafd.jpg)
+
+![ac939733c43b6ab67ce7e130961f6ce](README.assets/ac939733c43b6ab67ce7e130961f6ce.jpg)
 
 本项目特色：
 
